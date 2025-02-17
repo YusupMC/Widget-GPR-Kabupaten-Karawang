@@ -10,7 +10,8 @@
 ## 📌 Cara Menggunakan
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/username/widget-gpr-karawang.git
+   <script src="https://lab.yusupmadcani.my.id/karawang-widget.js"></script>
+   <div id="karawang-widget-container"></div>
    ```  
 2. Tambahkan widget ke halaman web sesuai panduan di README
 3. Sesuaikan tampilan sesuai kebutuhan
